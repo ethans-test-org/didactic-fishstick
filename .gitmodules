@@ -1,0 +1,3 @@
+[submodule "glowing-barnacle"]
+	path = glowing-barnacle
+	url = git@github.com:ethans-test-org/glowing-barnacle.git
